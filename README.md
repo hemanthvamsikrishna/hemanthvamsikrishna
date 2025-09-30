@@ -7,9 +7,9 @@
 ---
 
 ## 🌟 About Me
-- 🧑‍💻 3+ years of professional experience in **AI, ML, and Data Engineering** on **Microsoft Azure**  
+- 🧑‍💻 3+ years of professional work experience in **AI, ML, and Data Engineering** on **Microsoft Azure**  
 - 📊 Researcher in **IoT fingerprinting, ECG analysis, Explainable AI, Reinforcement Learning, and Supply Chain AI**  
-- 🏢 Startup experience:  
+- 🏢 Startup Founder experience:  
   - **2017**: Built an **electric single-wheel wheelchair attachment** (25 km/h, detachable)  
   - **2020**: Founded **AI-driven hydroponics & aquaponics agriculture startup**  
 - 📖 Representing UCM at **national & international conferences** (ATMAE, ASQ, IFMA)  
