@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hemanth Vamsi Krishna  
+# I’m Hemanth Vamsi Krishna  
 
 🚀 **AI Researcher**  
 🎓 MS in Artificial Intelligence @ University of Central Missouri | GPA 3.75/4.0  
