@@ -1,178 +1,258 @@
 <div align="center">
 
-# Hi there, I'm Hemanth 👋
-
-### 🚀 AI Researcher | 🎓 MS Student @ UCM | 💡 Startup Founder
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+# Hemanth
 
 </div>
 
----
+<div align="center">
+<h3 style="font-weight: 300; font-size: 28px;">AI Researcher. Builder. Innovator.</h3>
+<p style="font-weight: 300; color: #6e6e73;">Crafting intelligent systems that reshape industries.</p>
+</div>
 
-## 👨‍💻 About Me
-```yaml
-name: Hemanth
-located_in: Warrensburg, Missouri
-education: MS in Artificial Intelligence @ University of Central Missouri
-gpa: 3.75/4.0
-current_role: Graduate Student Employee
-experience: 3+ years in AI, ML & Data Engineering
-passion: Building AI systems that disrupt industries, not just optimize them
-```
-
-- 🔬 **AI Researcher** specializing in IoT fingerprinting, ECG analysis, XAI, RL & Supply Chain AI
-- 🏢 **Entrepreneur** with multiple startup ventures under my belt
-- 📊 **Conference Speaker** representing UCM at ATMAE, ASQ, and IFMA events
-- 💪 **Fitness Enthusiast** passionate about body recomposition
+<br/>
+<br/>
 
 ---
 
-## 🎯 Entrepreneurial Journey
+<br/>
 
-| Year | Venture | Description |
-|------|---------|-------------|
-| 🔌 **2017** | Electric Wheelchair Attachment | Built a detachable single-wheel electric attachment (25 km/h speed) |
-| 🌱 **2020** | AgriTech Startup | Founded AI-driven hydroponics & aquaponics agriculture company |
+<div align="center">
+
+## MS in Artificial Intelligence
+### University of Central Missouri
+
+<br/>
+
+**3.75** GPA · **3+** years experience · **Microsoft Azure** certified
+
+</div>
+
+<br/>
+<br/>
 
 ---
 
-## 🔬 Current Research & Projects
+<br/>
+<br/>
 
-<table>
+<div align="center">
+
+# Projects
+
+</div>
+
+<br/>
+
+## Charter
+### Natural language meets data visualization.
+
+Speak your insights. See them instantly. An open-source platform that transforms conversational queries into beautiful, interactive charts. No code required.
+
+**AI-Powered** · **Real-Time** · **Open Source**
+
+<br/>
+
+---
+
+<br/>
+
+## AI for Healthcare
+### Intelligence that saves lives.
+
+Advanced ECG analysis using deep learning for robust R-peak detection and arrhythmia classification. Clinical-grade accuracy for imbalanced datasets.
+
+**Deep Learning** · **Medical AI** · **Clinical Research**
+
+<br/>
+
+---
+
+<br/>
+
+## Air Traffic Control AI
+### Safer skies through reinforcement learning.
+
+Autonomous conflict detection and resolution for runway operations. Real-time decision-making that prioritizes safety at scale.
+
+**Reinforcement Learning** · **Safety-Critical AI** · **Real-Time Systems**
+
+<br/>
+
+---
+
+<br/>
+
+## Hive-Q
+### Collaborative intelligence for quality.
+
+Multi-company simulation platform enabling collaborative defect detection. Building networks that learn together.
+
+**Multi-Agent Systems** · **Quality Optimization** · **Collaborative AI**
+
+<br/>
+
+---
+
+<br/>
+
+## Smart Supply Chain
+### Predictive intelligence for inventory.
+
+AWS-powered optimization system that anticipates demand, reduces waste, and maximizes efficiency across the supply chain.
+
+**AWS** · **Predictive Analytics** · **Cloud Native**
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<div align="center">
+
+# Expertise
+
+</div>
+
+<br/>
+
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### 📊 Charter
-> Open-source AI visualization app for natural-language-driven charts
-- 🤖 NLP-powered chart generation
-- 🎨 Interactive data visualization
-- 💻 Full-stack implementation
-
-</td>
-<td width="50%">
-
-### ❤️ AI for Healthcare
-> ECG analysis & arrhythmia classification
-- 🫀 Robust R-peak detection
-- ⚖️ Imbalanced data handling
-- 🎯 Clinical-grade accuracy
+### Intelligence
+PyTorch · TensorFlow<br/>
+Scikit-Learn · Hugging Face<br/>
+Reinforcement Learning · XAI<br/>
+TabNet · RAG · Fine-Tuning
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td align="center" width="33%">
 
-### ✈️ Air Traffic Control AI
-> RL-based runway conflict resolution
-- 🛬 Real-time conflict detection
-- 🤖 Reinforcement learning agents
-- 🎮 Safe autonomous decision-making
+### Engineering
+Python · Java · JavaScript<br/>
+React · Node.js · FastAPI<br/>
+Spring Boot · Express<br/>
+Docker · CI/CD · Linux
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-### 🏭 Hive-Q
-> Multi-company quality collaboration simulator
-- 🔍 Defect detection system
-- 🤝 Cross-company learning
-- 📈 Quality optimization
+### Infrastructure
+AWS · Azure · MongoDB<br/>
+SQL · Spark · Big Data<br/>
+Data Pipelines · MLOps<br/>
+Plotly · Matplotlib
 
 </td>
 </tr>
 </table>
 
-### 📦 Smart Supply Chain AI
-> AWS-powered inventory optimization system
-- ☁️ Cloud-native architecture
-- 📊 Predictive analytics
-- 🔄 Real-time optimization
+<br/>
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Cloud & Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 🏆 Achievements & Recognition
-
-🌍 **IFMA SFP Certification Scholar**  
-📝 **Published Researcher** at ATMAE, ASQ, and International Technical Conferences  
-🎤 **Conference Presenter** representing UCM nationally and internationally  
-👥 **Active Leader** in ASQ UCM Chapter & Alumni Ambassadors Club  
-💪 **Fitness Enthusiast** dedicated to personal growth and body recomposition  
-
----
-
-## 📊 GitHub Stats
+<br/>
+<br/>
 
 <div align="center">
 
-![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+# Journey
 
 </div>
 
+<br/>
+
+<table align="center" width="80%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>2017</h3>
+<h4 style="font-weight: 600;">Electric Mobility</h4>
+<p style="font-weight: 300;">Designed and built a detachable electric wheelchair attachment. 25 km/h. Single-wheel. Revolutionary mobility.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>2020</h3>
+<h4 style="font-weight: 600;">AgriTech Innovation</h4>
+<p style="font-weight: 300;">Founded AI-driven hydroponics and aquaponics startup. Sustainable farming through intelligent automation.</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
 ---
 
-## 💭 My Philosophy
-
-> _"I don't just build AI models — I build AI systems that challenge industries, empower people, and inspire the future."_
-
----
-
-## 📫 Let's Connect!
+<br/>
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+# Recognition
 
 </div>
+
+<br/>
+
+<div align="center">
+<p style="font-weight: 300; font-size: 18px;">
+
+**IFMA SFP Certification Scholar**
+
+Published researcher at ATMAE, ASQ, and international conferences
+
+Representing UCM on national and global stages
+
+Active leader · ASQ UCM Chapter · Alumni Ambassadors Club
+
+</p>
+</div>
+
+<br/>
+<br/>
 
 ---
 
+<br/>
+<br/>
+
 <div align="center">
 
-### 🌟 Open to collaborations, research opportunities, and innovative projects!
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+<h2 style="font-weight: 300; font-size: 32px;">"I don't just build AI models.</h2>
+<h2 style="font-weight: 300; font-size: 32px;">I build AI systems that challenge industries,</h2>
+<h2 style="font-weight: 300; font-size: 32px;">empower people, and inspire the future."</h2>
 
 </div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
+<div align="center">
+
+# Let's Connect
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a> · 
+<a href="mailto:YOUR_EMAIL">Email</a> · 
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a> · 
+<a href="YOUR_GITHUB_URL">GitHub</a>
+
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
