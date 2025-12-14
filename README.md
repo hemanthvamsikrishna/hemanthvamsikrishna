@@ -1,7 +1,7 @@
 # Hey, I’m Hemanth 
 🚀 **AI Researcher**  
 🎓 MS in Artificial Intelligence @ University of Central Missouri | GPA 3.75/4.0  
-💼 Graduate Student Employee | Former AI Engineer & Full Stack Developer  
+💼 Graduate Student Employee | Former AI & Data Engineer & Back end Developer  
 ---
 ## 🌟 About Me
 - 🧑‍💻 3+ years of professional work experience in **AI, ML, and Data Engineering** on **Microsoft Azure**  
