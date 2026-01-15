@@ -1,287 +1,111 @@
-<div align="center">
+# Hemanth Vamsi Krishna Devadula
 
-# 👋 Hey, I'm Hemanth
+**AI Researcher** • **Deep Learning Engineer** • **Startup Founder**
 
-### AI Researcher | AI/ML Engineer | Startup Founder
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-
-</div>
+MS in Artificial Intelligence @ University of Central Missouri  
+Former Systems Engineer @ TCS • 3+ years in AI/ML & Data Engineering
 
 ---
 
-## 🎯 About Me
+## About
 
-```python
-class AIResearcher:
-    def __init__(self):
-        self.name = "Hemanth Vamsi Krishna Devadula"
-        self.role = "AI Researcher & Deep Learning Engineer"
-        self.education = {
-            "degree": "MS in Artificial Intelligence",
-            "university": "University of Central Missouri",
-            "gpa": "3.85/4.0",
-            "graduation": "May 2026"
-        }
-        self.experience = "3+ years in AI/ML & Data Engineering"
-        self.current_focus = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-    
-    def say_hi(self):
-        print("Building AI systems that disrupt industries, not just optimize them.")
+I build AI systems from first principles. My work spans deep learning architectures, natural language processing, and computer vision—implemented not just using frameworks, but understanding the mathematics and algorithms that power them.
 
-me = AIResearcher()
-me.say_hi()
-```
+Currently focused on bringing AI to healthcare (ECG analysis), air traffic control (reinforcement learning), and making data visualization accessible through natural language.
 
-🎓 **MS in Artificial Intelligence** @ University of Central Missouri (GPA: 3.75/4.0)  
-💼 **Graduate Student Employee** | Former **Systems Engineer @ TCS** (3+ years)  
-🚀 **2× Founder**: AgTech startup (AI hydroponics) & Manufacturing AI (Hive Quality Network)  
-📖 **Conference Speaker**: ATMAE, ASQ, IFMA (National & International)  
-🏋️ **Fitness Enthusiast** focused on body recomposition & physical resilience
+Previously founded two startups: an AgTech venture in AI-driven hydroponics and a collaborative manufacturing AI platform for distributed quality control.
 
 ---
 
-## 🔥 Featured Projects
+## Featured Work
 
-<table>
-<tr>
-<td width="50%">
+### Deep Learning from Scratch
 
-### 🧠 [RNN & Transformer from Scratch](https://github.com/yourusername/rnn-transformer-from-scratch)
-Implementation of LSTM, GRU, and **Multi-Head Self-Attention** (foundation of GPT/BERT) from scratch using NumPy.
+**[RNN and Transformer](https://github.com/yourusername/rnn-transformer-from-scratch)**  
+Complete implementation of sequence models: VanillaRNN, LSTM, GRU, and multi-head self-attention. Includes text generation on Shakespeare and sentiment analysis. Built the same attention mechanisms that power GPT and BERT.
 
-**Tech:** `Python` `NumPy` `NLP` `Transformers` `BPTT`
+**[CNN Architectures](https://github.com/yourusername/cnn-architecture-from-scratch)**  
+LeNet-5 and MiniVGG implementations with im2col optimization for efficient convolution. Trained on CIFAR-10 for image classification. Demonstrates computer vision fundamentals without using PyTorch or TensorFlow.
 
-**Highlights:**
-- 3 RNN variants (VanillaRNN, LSTM, GRU)
-- Attention mechanisms powering modern LLMs
-- Text generation & sentiment analysis
-- 1,833 lines of production code
+**[Neural Networks](https://github.com/yourusername/neural-network-from-scratch)**  
+Foundational neural network with manual backpropagation and gradient verification. Includes dense layers, activation functions, and SGD optimizer. MNIST digit classification from pure NumPy.
 
-</td>
-<td width="50%">
+### Applied AI Research
 
-### 🖼️ [CNN Architecture from Scratch](https://github.com/yourusername/cnn-architecture-from-scratch)
-LeNet-5 and MiniVGG architectures with **im2col optimization** for efficient convolution operations.
+**Healthcare AI**  
+Robust ECG R-peak detection and imbalanced arrhythmia classification using TabNet and advanced ML techniques. Focus on clinical-grade accuracy for real-world deployment.
 
-**Tech:** `Python` `NumPy` `Computer Vision` `CNNs`
+**Charter** *(In Progress)*  
+Open-source application enabling natural-language-driven data visualization. Users describe what they want to see; AI generates the appropriate charts and dashboards.
 
-**Highlights:**
-- Conv2D with im2col algorithm
-- Batch normalization for CNNs
-- CIFAR-10 classification (80% accuracy)
-- 1,240 lines of optimized code
+**Air Traffic Control AI**  
+Reinforcement learning system for runway conflict detection and resolution. Safety-critical AI with real-time decision making in simulated environments.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧮 [Neural Network from Scratch](https://github.com/yourusername/neural-network-from-scratch)
-Complete neural network with **manual backpropagation** and gradient verification.
-
-**Tech:** `Python` `NumPy` `Deep Learning`
-
-**Highlights:**
-- Dense layers, ReLU, Sigmoid, Softmax
-- Gradient checking for correctness
-- MNIST digit classification
-- SGD optimizer with momentum
-
-</td>
-<td width="50%">
-
-### ❤️ **AI for Healthcare**
-Robust ECG R-peak detection & **imbalanced arrhythmia classification** using advanced ML techniques.
-
-**Tech:** `PyTorch` `Scikit-Learn` `TabNet`
-
-**Highlights:**
-- ECG signal processing
-- Imbalanced data handling
-- Clinical-grade accuracy
-- Real-time inference
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 **Charter** (In Progress)
-Open-source AI-powered app for **natural-language-driven data visualization**.
-
-**Tech:** `React` `Python` `FastAPI` `LLMs`
-
-**Highlights:**
-- Natural language → Charts
-- Multiple visualization types
-- Interactive dashboards
-- RAG-based chart generation
-
-</td>
-<td width="50%">
-
-### ✈️ **AI in Air Traffic Control**
-Reinforcement learning for **runway conflict detection & resolution**.
-
-**Tech:** `Python` `RL` `Simulation`
-
-**Highlights:**
-- RL-based decision making
-- Real-time conflict resolution
-- Safety-critical AI system
-- Simulation environment
-
-</td>
-</tr>
-</table>
+**Hive Quality Network**  
+Multi-company platform for collaborative defect detection in manufacturing. Distributed AI system enabling companies to share pattern recognition insights while maintaining data privacy.
 
 ---
 
-## 💻 Tech Stack
+## Technical Foundation
 
-<div align="center">
+**Languages**  
+Python • Java • JavaScript
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**ML/AI**  
+PyTorch • TensorFlow • Scikit-Learn • Hugging Face • Reinforcement Learning • Transformers
 
-### AI/ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Development**  
+React • Node.js • FastAPI • Spring Boot • Express
 
-### Cloud & Data
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Data & Cloud**  
+Azure ML • AWS • MongoDB • PostgreSQL • Docker • CI/CD
 
-</div>
+**Specializations**  
+Deep Learning • Natural Language Processing • Computer Vision • MLOps • Data Pipelines
 
 ---
 
-## 📊 GitHub Stats
+## Research & Publications
 
-<div align="center">
+Active researcher in IoT fingerprinting, ECG analysis, explainable AI, reinforcement learning, and supply chain optimization. Representing University of Central Missouri at national and international conferences:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+- ATMAE (Association of Technology, Management, and Applied Engineering)
+- ASQ (American Society for Quality)
+- IFMA (International Facility Management Association)
 
-</div>
-
----
-
-## 🚀 Current Focus
-
-```mermaid
-mindmap
-  root((AI Research))
-    Deep Learning
-      RNNs & Transformers
-      Computer Vision
-      NLP Applications
-    MLOps
-      Model Deployment
-      CI/CD Pipelines
-      Monitoring
-    Research
-      ECG Analysis
-      Explainable AI
-      Reinforcement Learning
-    Production Systems
-      Azure ML
-      AWS Infrastructure
-      Scalable Pipelines
-```
+IFMA SFP Certification Scholar
 
 ---
 
-## 🏆 Achievements & Recognition
+## Entrepreneurial Ventures
 
-🌍 **IFMA SFP Certification Scholar**  
-📝 **Published Researcher** at ATMAE, ASQ, and Technical Conferences  
-🎤 **Conference Speaker** representing UCM nationally & internationally  
-👔 **Leadership Roles**: ASQ UCM Chapter, Alumni Ambassadors Club  
-🚀 **2× Startup Founder** (AgTech & Manufacturing AI)  
+**2023** • Hive Quality Network  
+Co-founded collaborative AI platform for manufacturing quality control across multiple companies.
 
----
+**2020** • AgTech Startup  
+Founded AI-driven hydroponics and aquaponics agriculture venture focused on vertical farming and sustainable food production.
 
-## 🎯 Entrepreneurial Journey
-
-### 2017: Electric Wheelchair Innovation
-Built a **detachable electric single-wheel attachment** for wheelchairs
-- Top speed: 25 km/h
-- Portable and easy to install
-- Enhanced mobility for users
-
-### 2020: AgTech Startup
-Founded **AI-driven hydroponics & aquaponics agriculture startup**
-- Vertical farming solutions
-- AI-based crop optimization
-- Sustainable food production
-
-### 2023: Hive Quality Network
-Co-founded **collaborative manufacturing AI platform**
-- Multi-company defect detection
-- Distributed quality control
-- AI-powered pattern recognition
+**2017** • Mobility Innovation  
+Designed and built detachable electric single-wheel wheelchair attachment achieving 25 km/h, enhancing mobility and independence.
 
 ---
 
-## 📈 Research Interests
+## Philosophy
 
-- 🔬 **Explainable AI (XAI)** - Making AI decisions interpretable
-- 🤖 **Reinforcement Learning** - Autonomous decision-making systems
-- ❤️ **Healthcare AI** - ECG analysis, medical diagnostics
-- 🏭 **Industrial AI** - Supply chain optimization, quality control
-- 🌐 **IoT & Edge AI** - Device fingerprinting, edge deployment
-- 📊 **MLOps** - Production ML systems, monitoring, scaling
+I believe in building AI systems that challenge industries, not just optimize them. Every project starts from first principles—understanding the mathematics, implementing the algorithms, and only then scaling with frameworks.
 
----
+Research should solve real problems. Code should be elegant. Systems should be robust. And AI should empower people, not just automate tasks.
 
-## 💡 Philosophy
-
-> _"I don't just build AI models — I build AI systems that challenge industries, empower people, and inspire the future."_
-
-- 🎯 **Impact over Optimization**: Creating disruptive AI solutions, not incremental improvements
-- 🔧 **First Principles Thinking**: Building from scratch to understand deeply
-- 🌍 **Real-World Applications**: Research that solves actual problems
-- 🚀 **Continuous Learning**: Always exploring cutting-edge techniques
-- 💪 **Resilience**: Applying fitness discipline to technical challenges
+Beyond code and research, I'm committed to physical resilience through body recomposition training—discipline in one area strengthens discipline in all areas.
 
 ---
 
-## 📫 Let's Connect!
+## Connect
 
-<div align="center">
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com) • [Portfolio](https://yourportfolio.com)
 
-**Open to collaborations, research opportunities, and interesting conversations about AI!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://yourportfolio.com)
-
-</div>
+Open to collaborations, research opportunities, and conversations about AI systems that matter.
 
 ---
 
-<div align="center">
-
-### ⭐ Don't forget to star my repositories if you find them useful!
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-
-</div>
+*"Building AI systems that disrupt industries, not just optimize them."*
