@@ -21,13 +21,13 @@ Previously founded two startups: an AgTech venture in AI-driven hydroponics and 
 
 ### Deep Learning from Scratch
 
-**[RNN and Transformer](https://github.com/yourusername/rnn-transformer-from-scratch)**  
+**[RNN and Transformer](https://github.com/hemanthvamsikrishna/rnn-transformer-from-scratch)**  
 Complete implementation of sequence models: VanillaRNN, LSTM, GRU, and multi-head self-attention. Includes text generation on Shakespeare and sentiment analysis. Built the same attention mechanisms that power GPT and BERT.
 
-**[CNN Architectures](https://github.com/yourusername/cnn-architecture-from-scratch)**  
+**[CNN Architectures](https://github.com/hemanthvamsikrishna/cnn-architecture-from-scratch)**  
 LeNet-5 and MiniVGG implementations with im2col optimization for efficient convolution. Trained on CIFAR-10 for image classification. Demonstrates computer vision fundamentals without using PyTorch or TensorFlow.
 
-**[Neural Networks](https://github.com/yourusername/neural-network-from-scratch)**  
+**[Neural Networks](https://github.com/hemanthvamsikrishna/neural-network-from-scratch)**  
 Foundational neural network with manual backpropagation and gradient verification. Includes dense layers, activation functions, and SGD optimizer. MNIST digit classification from pure NumPy.
 
 ### Applied AI Research
