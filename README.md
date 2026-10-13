@@ -25,21 +25,6 @@ I build end-to-end AI systems: transformer architectures written from scratch, R
 - 🚀 **Built:** two ventures, one in AgTech and one in mobility
 - 💬 **Ask me about:** RAG, LLM evaluation, data pipelines, and taking models from notebook to production
 
-
-<details>
-<summary><b>What I worked on</b></summary>
-<br>
-
-**Q's Ministry / BHITS:** Architecture for an offline, on-premise AI application: camera-to-app data flows, module interfaces, authentication, and REST APIs across 6 modules, with 100% on-premise processing. Lead a 3-person engineering team.
-
-**TCS:** Production LLM and RAG systems on Azure OpenAI serving 10K+ enterprise users at 92% retrieval precision. Batch and streaming pipelines on Databricks, PySpark, and Kafka at 99.5% reliability. NLP and ML models on healthcare, insurance, and financial data.
-
-**Vaaraahi Farms:** Founded an AI-powered vertical farming venture. ML models for crop optimization and predictive maintenance, on IoT sensor networks built with Raspberry Pi and Arduino.
-
-**TIME Pvt. Ltd.:** Predictive models to flag at-risk students, ETL pipelines at 95%+ data accuracy, and reporting automation that cut manual effort by 40%.
-
-</details>
-
 ---
 
 ## Featured Projects
