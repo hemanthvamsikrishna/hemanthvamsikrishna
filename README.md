@@ -25,17 +25,6 @@ I build end-to-end AI systems: transformer architectures written from scratch, R
 - 🚀 **Built:** two ventures, one in AgTech and one in mobility
 - 💬 **Ask me about:** RAG, LLM evaluation, data pipelines, and taking models from notebook to production
 
----
-
-## Experience
-
-| Role | Organization | Dates |
-|---|---|---|
-| **AI Computer Vision & Intelligence Assistant Systems Engineer** | Q's Ministry / BHITS | Jul 2026 – Present |
-| **Graduate Student Employee** | University of Central Missouri | Aug 2025 – May 2026 |
-| **Systems Engineer** | Tata Consultancy Services | Dec 2021 – Jul 2024 |
-| **AI/ML Engineer** | Vaaraahi Farms | Oct 2020 – Jun 2021 |
-| **Data Analyst** | TIME Pvt. Ltd. | Jun 2019 – Nov 2021 |
 
 <details>
 <summary><b>What I worked on</b></summary>
